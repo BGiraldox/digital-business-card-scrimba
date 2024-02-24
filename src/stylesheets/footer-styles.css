@@ -1,0 +1,17 @@
+footer {
+    width: 20rem;
+    height: 4rem;
+    border-radius: 0rem 0rem 0.625rem 0.625rem;
+    background: #161619;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer > a > img {
+    width: 2rem;
+    height: 2rem;
+    filter: contrast(0%);
+}
